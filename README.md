@@ -1,4 +1,4 @@
-# Hi there, I'm [Magacaaga] 👋
+# Hi there, I'm Ismail Ahmed Ismail
 
 ### 📊 About Me
 I am a passionate **Data Science enthusiast** with a focus on **Content & Media Strategy**. I specialize in using data to understand audience behavior and optimize digital content. 
