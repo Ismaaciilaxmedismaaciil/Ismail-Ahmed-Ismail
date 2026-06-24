@@ -47,8 +47,8 @@ Passionate about Data Science, Machine Learning, and Artificial Intelligence, wi
 
 **Career Goals:**
 
-* Data Scientist
-* Machine Learning Engineer
+* AI Researcher
+* Machine Learning Researcher
 * AI Engineer
 
 ---
