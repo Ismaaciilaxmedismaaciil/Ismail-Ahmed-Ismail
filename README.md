@@ -49,7 +49,7 @@ Passionate about Data Science, Machine Learning, and Artificial Intelligence, wi
 
 * AI Researcher
 * Machine Learning Researcher
-* AI Engineer
+
 
 ---
 
